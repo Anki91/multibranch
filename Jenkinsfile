@@ -15,7 +15,7 @@ pipeline {
       //steps {
         //echo 'Running PHPUnit...'
         //sh '/bin/phpunit ${WORKSPACE}/src'
-      }
+      //}
     }
   
   }
